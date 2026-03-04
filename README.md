@@ -2,6 +2,9 @@
 
 A modern, user-friendly web application that converts Excel files (.xlsx, .xls) to JSON format with ease. No installation required—just drag and drop your file!
 
+## Deployed on GitHub Pages
+🔗 https://jahnavibaddikuri.github.io/Excel-to-Json/
+
 ## ✨ Features
 
 - **🎯 Simple Drag & Drop**: Easily upload Excel files by dragging and dropping
